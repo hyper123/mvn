@@ -1,14 +1,17 @@
 My maven repository
 
 
-<repositories> 
-  <repository> 
-    <id>maven-repository</id> 
-    <url>https://raw.github.com/soarcn/mvn/master</url> 
-  </repository> 
-</repositories> 
+
 
 <!-- 具体依赖项目--> 
+
+        <repositories> 
+          <repository> 
+            <id>maven-repository</id> 
+            <url>https://raw.github.com/soarcn/mvn/master</url> 
+          </repository> 
+        </repositories> 
+
         <dependency>
             <groupId>com.notificationcompact</groupId>
             <artifactId>library</artifactId>
