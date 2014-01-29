@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.cengalabs</groupId>
+  <artifactId>flatui</artifactId>
+  <version>1.0</version>
+  <name>flatui</name>
+  <description>FlatUI Kit for Android Native Widgets</description>
+  <url>https://github.com/eluleci/FlatUI</url>
+  <inceptionYear>2013</inceptionYear>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+      <comments>A business-friendly OSS license</comments>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>soarcn</id>
+      <name>LiaoKai</name>
+      <email>soarcn@gmail.com</email>
+      <url>http://www.cocosw.com</url>
+    </developer>
+  </developers>
+  <issueManagement>
+    <system>github</system>
+    <url>http://www.github.com</url>
+  </issueManagement>
+  <scm>
+    <connection>scm:git@github.com:eluleci/FlatUI.git</connection>
+    <developerConnection>scm:git@github.com:eluleci/FlatUI.git</developerConnection>
+    <url>https://github.com/eluleci/FlatUI</url>
+  </scm>
+</project>
