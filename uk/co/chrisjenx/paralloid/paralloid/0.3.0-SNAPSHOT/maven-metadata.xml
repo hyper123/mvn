@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>uk.co.chrisjenx.paralloid</groupId>
+  <artifactId>paralloid</artifactId>
+  <version>0.3.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140130.112906</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140130112906</lastUpdated>
+  </versioning>
+</metadata>
