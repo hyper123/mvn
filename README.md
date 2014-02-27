@@ -31,3 +31,9 @@ My maven repository
                 </exclusion>
             </exclusions>
         </dependency>
+        
+        <dependency>
+            <groupId>android.support</groupId>
+            <artifactId>compatibility-v4</artifactId>
+            <version>18</version>
+        </dependency>
