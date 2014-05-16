@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.cocosw.framework</groupId>
   <artifactId>debug</artifactId>
-  <version>0.3</version>
+  <version>0.4</version>
   <name>debug</name>
   <description>My android development framework, under heavy development. Short code, rapid development, less bug, more fun</description>
   <url>https://github.com/soarcn/COCOFramework</url>
