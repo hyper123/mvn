@@ -158,6 +158,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.nineoldandroids</groupId>
+      <artifactId>library</artifactId>
+      <version>+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.cocosw.accessory</groupId>
       <artifactId>utils</artifactId>
       <version>+</version>
