@@ -63,6 +63,7 @@
       <groupId>com.path</groupId>
       <artifactId>android-priority-jobqueue</artifactId>
       <version>1.+</version>
+      <type>aar</type>
       <scope>compile</scope>
     </dependency>
     <dependency>
