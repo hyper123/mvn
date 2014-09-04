@@ -5,6 +5,7 @@
   <groupId>com.readystatesoftware</groupId>
   <artifactId>viewbadger</artifactId>
   <version>0.0.1</version>
+  <packaging>aar</packaging>
   <name>viewbadger</name>
   <description></description>
   <url></url>
