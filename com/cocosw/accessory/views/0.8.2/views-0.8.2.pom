@@ -5,6 +5,7 @@
   <groupId>com.cocosw.accessory</groupId>
   <artifactId>views</artifactId>
   <version>0.8.2</version>
+  <packaging>aar</packaging>
   <name>views</name>
   <description>Accessory</description>
   <url>https://github.com/soarcn/COCO-Accessory</url>
