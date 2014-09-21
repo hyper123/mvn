@@ -67,12 +67,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>support-v4</artifactId>
-      <version>19.+</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.jakewharton.madge</groupId>
       <artifactId>madge</artifactId>
       <version>+</version>
@@ -120,6 +114,12 @@
       <groupId>com.cocosw.accessory</groupId>
       <artifactId>views</artifactId>
       <version>+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>support-v4</artifactId>
+      <version>20.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
