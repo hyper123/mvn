@@ -55,12 +55,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.path</groupId>
-      <artifactId>android-priority-jobqueue</artifactId>
-      <version>1.+</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.cocosw</groupId>
       <artifactId>undobar</artifactId>
       <version>+</version>
@@ -98,12 +92,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.google.code.gson</groupId>
-      <artifactId>gson</artifactId>
-      <version>+</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.iconic</groupId>
       <artifactId>iconic</artifactId>
       <version>0.1</version>
@@ -114,6 +102,12 @@
       <groupId>com.joanzapata.android</groupId>
       <artifactId>base-adapter-helper</artifactId>
       <version>1.+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.google.code.gson</groupId>
+      <artifactId>gson</artifactId>
+      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -149,12 +143,6 @@
     <dependency>
       <groupId>com.cocosw.accessory</groupId>
       <artifactId>connectivity</artifactId>
-      <version>+</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.nineoldandroids</groupId>
-      <artifactId>library</artifactId>
       <version>+</version>
       <scope>compile</scope>
     </dependency>
