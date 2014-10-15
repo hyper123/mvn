@@ -49,6 +49,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.jakewharton</groupId>
+      <artifactId>butterknife</artifactId>
+      <version>5.+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.jakewharton.timber</groupId>
       <artifactId>timber</artifactId>
       <version>+</version>
@@ -77,12 +83,6 @@
       <groupId>com.github.kevinsawicki</groupId>
       <artifactId>http-request</artifactId>
       <version>5.+</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.jakewharton</groupId>
-      <artifactId>butterknife</artifactId>
-      <version>5.0.+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
