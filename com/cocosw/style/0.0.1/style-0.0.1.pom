@@ -37,15 +37,15 @@
   </scm>
   <dependencies>
     <dependency>
-      <groupId>com.cocosw</groupId>
-      <artifactId>framework</artifactId>
-      <version>2.1.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>uk.co.chrisjenx</groupId>
       <artifactId>calligraphy</artifactId>
       <version>+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.cocosw</groupId>
+      <artifactId>framework</artifactId>
+      <version>2.2.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
