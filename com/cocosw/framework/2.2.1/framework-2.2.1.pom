@@ -61,6 +61,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.github.andkulikov</groupId>
+      <artifactId>transitions-everywhere</artifactId>
+      <version>1.+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.cocosw</groupId>
       <artifactId>undobar</artifactId>
       <version>+</version>
@@ -92,16 +98,16 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.joanzapata.android</groupId>
+      <artifactId>base-adapter-helper</artifactId>
+      <version>1.+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.iconic</groupId>
       <artifactId>iconic</artifactId>
       <version>0.1</version>
       <type>aar</type>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.joanzapata.android</groupId>
-      <artifactId>base-adapter-helper</artifactId>
-      <version>1.+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
