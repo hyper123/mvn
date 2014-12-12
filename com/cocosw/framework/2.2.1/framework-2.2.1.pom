@@ -49,12 +49,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.jakewharton</groupId>
-      <artifactId>butterknife</artifactId>
-      <version>5.+</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.jakewharton.timber</groupId>
       <artifactId>timber</artifactId>
       <version>+</version>
@@ -64,6 +58,12 @@
       <groupId>com.github.andkulikov</groupId>
       <artifactId>transitions-everywhere</artifactId>
       <version>1.+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>appcompat-v7</artifactId>
+      <version>21.+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -117,12 +117,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>appcompat-v7</artifactId>
-      <version>21.0.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.squareup.dagger</groupId>
       <artifactId>dagger-compiler</artifactId>
       <version>+</version>
@@ -143,7 +137,7 @@
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>support-v4</artifactId>
-      <version>21.0.2</version>
+      <version>21.+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -162,6 +156,12 @@
       <groupId>com.squareup.okhttp</groupId>
       <artifactId>okhttp-urlconnection</artifactId>
       <version>2.+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.jakewharton</groupId>
+      <artifactId>butterknife</artifactId>
+      <version>6.+</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
