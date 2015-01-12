@@ -37,6 +37,12 @@
   </scm>
   <dependencies>
     <dependency>
+      <groupId>com.afollestad</groupId>
+      <artifactId>material-dialogs</artifactId>
+      <version>0.6.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.cocosw</groupId>
       <artifactId>lifecycle</artifactId>
       <version>+</version>
@@ -80,15 +86,15 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.cocosw</groupId>
-      <artifactId>query</artifactId>
-      <version>+</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.github.kevinsawicki</groupId>
       <artifactId>http-request</artifactId>
       <version>5.+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.cocosw</groupId>
+      <artifactId>query</artifactId>
+      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -104,16 +110,16 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.google.code.gson</groupId>
+      <artifactId>gson</artifactId>
+      <version>+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.iconic</groupId>
       <artifactId>iconic</artifactId>
       <version>0.1</version>
       <type>aar</type>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google.code.gson</groupId>
-      <artifactId>gson</artifactId>
-      <version>+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
