@@ -80,12 +80,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.support</groupId>
-      <artifactId>support-v4</artifactId>
-      <version>20.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.cocosw.accessory</groupId>
       <artifactId>views</artifactId>
       <version>+</version>
@@ -95,6 +89,12 @@
       <groupId>com.github.kevinsawicki</groupId>
       <artifactId>http-request</artifactId>
       <version>5.5</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>support-v4</artifactId>
+      <version>21.+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
