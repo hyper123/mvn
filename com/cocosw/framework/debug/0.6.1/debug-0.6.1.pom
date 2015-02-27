@@ -43,6 +43,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.facebook.stetho</groupId>
+      <artifactId>stetho-okhttp</artifactId>
+      <version>1.+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.cocosw</groupId>
       <artifactId>lifecycle</artifactId>
       <version>+</version>
@@ -89,6 +95,12 @@
       <groupId>com.android.support</groupId>
       <artifactId>support-v4</artifactId>
       <version>21.+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.facebook.stetho</groupId>
+      <artifactId>stetho</artifactId>
+      <version>1.+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
